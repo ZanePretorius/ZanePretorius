@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ZanePretorius
-- 👀 I’m interested in C#,Java and little bit of web :) (javascript etc)
+- 👀 I’m interested in C#,Java and little bit of web :) (javascript html css)
+- Im always down too work on projects for school and special projects 
 
 
 <!---
